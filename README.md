@@ -1,1 +1,1 @@
-# WebDevProject 6 - drumkit
+# WebDevProject6-DrumKit
